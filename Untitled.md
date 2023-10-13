@@ -1,47 +1,79 @@
-```python
-
-```
-
-
-```python
-
-```
+# <centre> Resume </centre>                                                                                                                                                                 
+   
 
 
-```python
+## <u>Personal Details</u>
 
-```
+<b>Name : </b> <right> Ramana Naik Dharavathu </right>
 
-# RAM 
-  STUDENT IF INNOMATICCS 
-  STUDENT IF INNOMATICCS
- ##  STUDENT  
- BTECH CSE 
+  <b>Mobile : </b> 7569477751                          
+  
+  <b>Email : </b> <u>naniprince1999@gmail.com </u>
 
-# POINT-1
-    *FJR
-    *  GFYHGBUB
-    *  HBHBHKB
-# #PONTV2 
-# ##POINT 3
-    *POINT 1.1
+  <b>Date of birth : </b> 29/12/1999
 
-<b>ram</b>
+  <b>Gender : Male 
 
-<i>ram</i>
-
-<u>ram</u>
+  <b>Linked in : </b> [Click here ]()
 
 
+  <b>Github : </b> [click here ]()
 
-<oi> arun ram </oi> 
+  <b>Kaggle : </b> [click here]()
+  
 
-# heading
+  ## <u>Career objectives</u>
+  
+  
+Aiming to secure a challenging position in progressive organization where can shape my career and to build a intellectual and interactive environment with passion to limitless opportunities for better of organization , To master new technologies , to explore and enhance my skills , work hard and smart.
 
 
-![clickhere ](https://cdni.autocarindia.com/Utils/ImageResizer.ashx?n=http%3A%2F%2Fcdni.autocarindia.com%2FReviews%2F2020-KTM-390-Duke.jpg&c=0)
+## <u>Education</u>
+
+<b> 2018 - 2022 : </b> B.TECH (CIVIL), Jawaharlalnehru Technological University , Kakinada .
+
+<b> 2016 - 2018 : <b> Intermediate , Sri chaithanya Junior college (IIT & JE MAINS ) , Nandigama . 
+
+<b> 2015 - 2016 : <b> SSC BOARD , Sri chaithanya Techno school , Penunganchiprolu . 
 
 
-```python
+## <u>Skills</u> 
 
-```
+* Programming languages : Microsoft office Excel , Python , html. 
+
+## <U>Interests </u>
+
+* Data science 
+
+* Gamification 
+
+
+## <u>Declaration</u>
+
+
+ I here by declare that the above information provided is true and it is best of my knowledge .
+
+
+ <b> Date : </b> 
+
+ <b> Place : </b> Hyderabad 
+
+ <div style="text-align: right"> <b>Ramana naik Dharavathu </b> </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+ 
