@@ -12,14 +12,13 @@
 
   <b>Date of birth : </b> 29/12/1999
 
-  <b>Gender : Male 
+  <b>Gender :  <b>Male</b>
 
   <b>Linked in : </b> [Click here ]()
 
+ <b>Github :  </b> [click here ]()
 
-  <b>Github : </b> [click here ]()
-
-  <b>Kaggle : </b> [click here]()
+  <b>Kaggle :  </b> [click here]()
   
 
   ## <u>Career objectives</u>
